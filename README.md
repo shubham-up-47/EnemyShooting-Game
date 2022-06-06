@@ -7,7 +7,7 @@ a 2D single player enemy shooting game. It is an html canvas game, implemented u
 
 * Killing each enemy will give you **10 points**.
 * Weapon is free and we can use it as much as we can.
-* Weapon kill the enemy **instantly** on hit
+* Weapon kills the enemy **instantly** on hit
 * Game over when enemy hits the player
   
   
