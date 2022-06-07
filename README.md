@@ -15,4 +15,4 @@ a 2D single player enemy shooting game. It is an html canvas game, implemented u
 
 * Left Click to use the Weapon
 * Use audio button to control game sounds
-* Select difficulty level (easy/medium/hard/insane) bafore start
+* Select difficulty level (easy/medium/hard/insane) before start
