@@ -1,6 +1,6 @@
 # EnemyShooting-Game
 
-a 2D single player enemy shooting game. It is an html canvas game, implemented using vanilla JavaScript. 
+a 2D single player enemy shooting game. It is an html canvas game, implemented using Vanilla JavaScript. 
  
  
 # Rules 
